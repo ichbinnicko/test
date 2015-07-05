@@ -1,0 +1,7 @@
+name: test
+author: nicko
+version: 1
+
+main: test.test
+
+load: startup
