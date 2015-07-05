@@ -9,7 +9,7 @@ public class test extends JavaPlugin implements Listener {
 	public void onEnable() {
 
 		Bukkit.getPluginManager().registerEvents(this, this);
-		System.out.println("enabled.");
+		System.out.println("enabled.i");
 	}
 
 }
